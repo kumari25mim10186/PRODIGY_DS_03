@@ -1,4 +1,5 @@
-# PRODIGY_DS_02
+# PRODIGY_DS_03
+
 # 🌳 Customer Purchase Prediction Using Decision Tree Classifier
 
 ## 📌 Project Overview
